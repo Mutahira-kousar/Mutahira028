@@ -10,11 +10,21 @@
   - App Integrations
   - Klaviyo Email Flows
 
-- 🌱 I’m currently learning **Shopify App Development, Webhooks & APIs, AI for eCommerce**
+**🌱 I’m currently learning**
+-  Shopify App Development
+-   Webhooks & APIs
+-    AI for eCommerce
 
-- 👯 I’m looking to collaborate on **Shopify Projects, Custom Themes, Shopify Apps, CRO Optimization**
+**👯 I’m looking to collaborate on** 
+- Shopify Projects
+-  Custom Themes
+- Shopify Apps
+- CRO Optimization
 
-- 🤝 I’m looking for help with **Shopify Custom Apps, API Integrations, AI Automation**
+ **🤝 I’m looking for help with**
+- Shopify Custom Apps
+- API Integrations
+- AI Automation
 
 - 💬 Ask me about **Shopify Setup, Theme Customization, Store Optimization, Klaviyo Marketing**
 
