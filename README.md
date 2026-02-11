@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mutahira Kousar</h1>
 <h3 align="center">A passionate Shopify Developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutahira-kousar" alt="Mutahira-kousar" /></a> </p>
 
-- 🔭 I’m currently working on **Shopify Store Development, Figma to Shopify, Store Audits, App Integrations, Klaviyo Email Flows**
+
+🔭 **I’m currently working on**
+  - Shopify Store Development
+  - Figma to Shopify
+  - Store Audits
+  - App Integrations
+  - Klaviyo Email Flows
 
 - 🌱 I’m currently learning **Shopify App Development, Webhooks & APIs, AI for eCommerce**
 
