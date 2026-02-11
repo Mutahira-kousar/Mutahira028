@@ -26,7 +26,11 @@
 - API Integrations
 - AI Automation
 
-- 💬 Ask me about **Shopify Setup, Theme Customization, Store Optimization, Klaviyo Marketing**
+ **💬 Ask me about**
+- Shopify Setup
+- Theme Customization
+- Store Optimization
+- Klaviyo Marketing
 
 - 📫 How to reach me **mutahirakousar28@gmail.com**
 
